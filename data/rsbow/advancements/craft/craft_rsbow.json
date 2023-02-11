@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "rsbow:item/rsbow"
+        }
+      }
+    },
+    "rewards": {
+      "function": "rsbow:craft_rsbow"
+    }
+  }
+  
