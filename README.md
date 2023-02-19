@@ -14,5 +14,5 @@ B:bow
 *explain*
 Change the place where the arrow shot with RSbow is stuck to a redstone block.
 
-***CAUTION***
+## ***CAUTION***
 This datapack replaces the blocks at y=-64
